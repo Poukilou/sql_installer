@@ -1,8 +1,9 @@
 # sql_installer
-installation MySQL WorkBench Windows
+Installation MySQL WorkBench Windows
 
-Télécharger MySQL Workbench
-selon votre système, téléchargez le x64 ou le x86.
+Télécharger MySQL Workbench.
+
+Selon votre système, téléchargez le x64 ou le x86.
 
 Si nécéssaire, installer Visual C++ 2015 (Sa nécéssité sera indiquée lors de l'installation).
 
